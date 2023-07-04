@@ -101,7 +101,7 @@ onMounted(async () => {
 <template>
 
 
-  <q-card flat class="telite-bg-grey">
+  <q-card flat class="quixada-bg-grey">
     <q-card-section>
 			<div class="text-h5 text-weight-medium">Cadastrar Nova Entrada</div>
 		</q-card-section>
@@ -196,8 +196,7 @@ onMounted(async () => {
                   outline
                   color="primary"
                   icon="o_add"
-                  label="Adicionar Material"
-                />
+                  label="Adicionar Material"/>
               </div>
             </div>
               <!-- </q-form> -->
