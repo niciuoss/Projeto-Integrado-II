@@ -12,3 +12,6 @@ https://docs.google.com/document/d/1fsycl_YT1tgVONeniz_EKuMJQ5Dv5i1HnNcDK8_EnGo/
 
 Back-end
 https://github.com/IagoLSJ/qResiduos
+
+Planilha de Testes
+https://docs.google.com/spreadsheets/d/1LEBTFbkJkQPWszj2hyqs1rVZwUswUo4MHgX_Uev8DnA/edit?usp=sharing
